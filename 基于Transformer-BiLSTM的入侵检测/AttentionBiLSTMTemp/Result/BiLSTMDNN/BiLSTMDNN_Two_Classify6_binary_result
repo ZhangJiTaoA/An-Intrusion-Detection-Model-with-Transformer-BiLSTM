@@ -1,0 +1,18 @@
+{
+ "model": "./Result/BiLSTMDNN/BiLSTMDNN_Two_Classify6",
+ "accuracy": 0.7750177430801988,
+ "recall": 0.6829268292682927,
+ "precision": 0.8973072591379134,
+ "f1": 0.7755752212389381,
+ "cm": [
+  [
+   8708,
+   1003
+  ],
+  [
+   4069,
+   8764
+  ]
+ ],
+ "best_epoch": 13
+}

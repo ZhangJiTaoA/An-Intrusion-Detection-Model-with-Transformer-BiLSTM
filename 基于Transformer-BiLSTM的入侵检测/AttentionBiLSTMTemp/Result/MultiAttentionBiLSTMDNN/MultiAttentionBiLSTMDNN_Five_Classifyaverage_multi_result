@@ -1,0 +1,7 @@
+{
+ "model": "MultiAttentionBiLSTMDNN_Five_Classify",
+ "accuracy": 0.650332682753726,
+ "recall": 0.3415440346362667,
+ "precision": 0.3208784003051702,
+ "f1": 0.30903710010523516
+}

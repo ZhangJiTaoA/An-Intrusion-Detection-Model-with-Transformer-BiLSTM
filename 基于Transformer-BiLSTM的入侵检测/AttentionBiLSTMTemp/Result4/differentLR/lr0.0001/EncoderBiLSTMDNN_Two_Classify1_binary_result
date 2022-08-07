@@ -1,0 +1,18 @@
+{
+ "model": "./Result4/differentLR/EncoderBiLSTMDNN_Two_Classify1",
+ "accuracy": 0.8730039034776437,
+ "recall": 0.8930102080573521,
+ "precision": 0.8849420849420849,
+ "f1": 0.8889578404374975,
+ "cm": [
+  [
+   8221,
+   1490
+  ],
+  [
+   1373,
+   11460
+  ]
+ ],
+ "best_epoch": 4
+}

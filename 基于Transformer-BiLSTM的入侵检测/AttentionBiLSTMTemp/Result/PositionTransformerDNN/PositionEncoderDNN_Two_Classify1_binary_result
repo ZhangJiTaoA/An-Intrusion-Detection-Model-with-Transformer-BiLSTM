@@ -1,0 +1,18 @@
+{
+ "model": "./Result/PositionTransformerDNN/PositionEncoderDNN_Two_Classify1",
+ "accuracy": 0.8055801987224982,
+ "recall": 0.6996025870801839,
+ "precision": 0.9444561329686514,
+ "f1": 0.8037960517480639,
+ "cm": [
+  [
+   9183,
+   528
+  ],
+  [
+   3855,
+   8978
+  ]
+ ],
+ "best_epoch": 5
+}

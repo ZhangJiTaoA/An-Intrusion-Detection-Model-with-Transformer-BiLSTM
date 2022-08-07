@@ -1,0 +1,18 @@
+{
+ "model": "./Result2/MultiAttentionBiLSTMDNN_Two_Classify8",
+ "accuracy": 0.8650195173882186,
+ "recall": 0.8914517260188576,
+ "precision": 0.8739495798319328,
+ "f1": 0.882613894996721,
+ "cm": [
+  [
+   8061,
+   1650
+  ],
+  [
+   1393,
+   11440
+  ]
+ ],
+ "best_epoch": 15
+}

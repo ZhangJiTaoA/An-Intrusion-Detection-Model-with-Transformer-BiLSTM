@@ -1,0 +1,18 @@
+{
+ "model": "./Result/differentHeads/EncoderBiLSTMDNN_Two_Classify_head_21",
+ "accuracy": 0.8375621007806955,
+ "recall": 0.7490064677004598,
+ "precision": 0.9561324977618622,
+ "f1": 0.8399895132395351,
+ "cm": [
+  [
+   9270,
+   441
+  ],
+  [
+   3221,
+   9612
+  ]
+ ],
+ "best_epoch": 17
+}

@@ -1,0 +1,7 @@
+{
+ "model": "EncoderBiLSTMDNN_Five_Classify",
+ "accuracy": 0.7819464158977999,
+ "recall": 0.5272851973549332,
+ "precision": 0.4760871917944609,
+ "f1": 0.4964482013723366
+}

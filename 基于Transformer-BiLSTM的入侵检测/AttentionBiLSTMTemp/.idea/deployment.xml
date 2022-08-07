@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zjt@10.107.41.169:22" remoteFilesAllowedToDisappearOnAutoupload="false" showNewOnTargetInSync="false">
+    <serverData>
+      <paths name="zjt@10.107.41.169:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/AttentionBiLSTMTemp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjt@10.107.41.169:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zjt@10.107.41.169:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
